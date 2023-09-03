@@ -6,14 +6,17 @@
 #### Neste espaço, compartilho alguns dos projetos que desenvolvi durante a faculdade, junto com outros projetos pessoais, destacando minha jornada de aprendizado e evolução.
 #### Bom, chega de Lero Lero, vamos para o que realmente importa. 🔧
 ### Redes Sociais
-   <p align="left">
-     <a href="www.linkedin.com/in/eduardo-leal-4867b918a">
-         <img alt="My Linkedin Profile" 
-          src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
-      <a hred="https://twitter.com/BlueWingedChat">
-         <img alt="My Twitter Profile"
-         src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
-   </p>
+<p align="left">
+   <a href="https://www.linkedin.com/in/eduardo-leal-4867b918a">
+      <img alt="My Linkedin Profile" 
+      src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+   </a> 
+   <a href="https://twitter.com/BlueWingedChat">
+      <img alt="My Twitter Profile"
+      src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
+   </a>
+</p>
+
    
 ### Language e Tools: 
 <div style="display: flex; align-items: center;">
