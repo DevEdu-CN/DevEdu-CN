@@ -2,7 +2,7 @@
 ### Eu sou um Cientista da Computação 🖥️
 
 #### Sempre gostei muito de programação, então a oportunidade de trabalhar com isso tem sido incrível.
-#### Minha trajetória me permitiu explorar uma ampla gama de tecnologias e ferramentas. Isso inclui a construção de aplicações sólidas com Java, Node.js e Spring Boot. Também me aventurei no front-end, criando interfaces dinâmicas.
+#### Minha trajetória me permitiu explorar uma ampla gama de tecnologias e ferramentas. Isso inclui a construção de aplicações sólidas com Spring Boot. Também me aventurei no front-end, criando interfaces dinâmicas.
 #### Neste espaço, compartilho alguns dos projetos que desenvolvi durante a faculdade, junto com outros projetos pessoais, destacando minha jornada de aprendizado e evolução.
 #### Bom, chega de Lero Lero, vamos para o que realmente importa. 🔧
 ### Redes Sociais
@@ -23,11 +23,9 @@
    <img allign="left" alt="java" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
    <img allign="left" alt="StringBoot" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
    <img allign="left" alt="javaScript" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-   <img allign="left" alt="node.js" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
    <img allign="left" alt="angularjs" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
    <img allign="left" alt="php" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
    <img allign="left" alt="postgreSQL" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"/>
-   <img allign="left" alt="React" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
    <img allign="left" alt="groovy" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/groovy/groovy-original.svg"/>
    <img allign="left" alt="grails" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grails/grails-plain.svg"/>
 </div>
